@@ -1,0 +1,6 @@
+artifact_location: file:///home/siddi/spark-project/mlruns/341269265382585862
+creation_time: 1784048803300
+experiment_id: '341269265382585862'
+last_update_time: 1784048803300
+lifecycle_stage: active
+name: ltv_regressor

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/siddi/spark-project/mlruns/341269265382585862/08ce3bb58b1c408c8f7c591798383667/artifacts
+end_time: 1784048817336
+entry_point_name: ''
+experiment_id: '341269265382585862'
+lifecycle_stage: active
+run_id: 08ce3bb58b1c408c8f7c591798383667
+run_name: GBT_ltv
+run_uuid: 08ce3bb58b1c408c8f7c591798383667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784048803324
+status: 3
+tags: []
+user_id: siddi

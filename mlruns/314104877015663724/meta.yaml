@@ -1,0 +1,6 @@
+artifact_location: file:///home/siddi/spark-project/mlruns/314104877015663724
+creation_time: 1784048830322
+experiment_id: '314104877015663724'
+last_update_time: 1784048830322
+lifecycle_stage: active
+name: demand_forecaster

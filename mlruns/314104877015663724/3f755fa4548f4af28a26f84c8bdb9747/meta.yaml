@@ -1,0 +1,15 @@
+artifact_uri: file:///home/siddi/spark-project/mlruns/314104877015663724/3f755fa4548f4af28a26f84c8bdb9747/artifacts
+end_time: 1784048847246
+entry_point_name: ''
+experiment_id: '314104877015663724'
+lifecycle_stage: active
+run_id: 3f755fa4548f4af28a26f84c8bdb9747
+run_name: RF_demand
+run_uuid: 3f755fa4548f4af28a26f84c8bdb9747
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784048830351
+status: 3
+tags: []
+user_id: siddi

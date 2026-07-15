@@ -1,0 +1,6 @@
+artifact_location: file:///home/siddi/spark-project/mlruns/268139430250276210
+creation_time: 1784048770024
+experiment_id: '268139430250276210'
+last_update_time: 1784048770024
+lifecycle_stage: active
+name: churn_classifier
