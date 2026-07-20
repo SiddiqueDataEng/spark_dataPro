@@ -1,0 +1,23 @@
+# AWS Data Engineering Platform — Python dependencies
+# Install with: pip install -r aws/requirements_aws.txt
+#
+# NOTE: boto3 and botocore are likely already installed.
+# Run this file to ensure all required packages are present.
+
+# ── AWS SDK (already installed if you ran pip install boto3 previously) ───────
+boto3>=1.35.0
+botocore>=1.35.0
+
+# ── PostgreSQL driver — psycopg v3 (pure Python, no pg_config needed) ────────
+# psycopg2-binary does NOT have a Python 3.14 wheel yet.
+# psycopg v3 installs cleanly on 3.14 with no C compiler required.
+psycopg>=3.1.0
+
+# ── Data / utilities ─────────────────────────────────────────────────────────
+pandas>=2.0.0
+python-dotenv>=1.0.0
+
+# ── AWS CDK (optional — only needed for cdk-synth / cdk-deploy actions) ──────
+# Uncomment to install:
+# aws-cdk-lib==2.167.1
+# constructs==10.4.2
